@@ -140,6 +140,23 @@ const schemes = [
     isDiverging: true,
   },
   {
+    id: 'schemeGnYlRd',
+    label: 'green/yellow/red',
+    colors: [
+      '#006837',
+      '#1a9850',
+      '#66bd63',
+      '#a6d96a',
+      '#d9ef8b',
+      '#fee08b',
+      '#fdae61',
+      '#f46d43',
+      '#d73027',
+      '#a50026',
+    ],
+    isDiverging: true,
+  },
+  {
     id: 'schemeSpectral',
     label: 'rainbow',
     colors: [
